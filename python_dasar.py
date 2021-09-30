@@ -153,3 +153,44 @@ lebih_besar_sama_dengan = 5<=5
 print(lebih_besar_sama_dengan)
 print(5<=5)
 print("\n")
+
+# Operator Penugasan
+# Sama Dengan
+a = 1
+print(a, "\n")
+
+
+# Tambah sama dengan
+b = 3
+b += 2
+print(b, "\n")
+
+# Kurang sama dengan
+c = 3
+c -= 2
+print(c, "\n")
+
+# Kali sama dengan
+d = 5
+d *= 5
+print(d, "\n")
+
+# Bagi sama dengan
+e = 4
+e /= 2
+print(e, "\n")
+
+# Sisa bagi sama dengan
+f = 5
+f %= 2
+print(f, "\n")
+
+# Pangkat sama dengan
+g = 2
+g **= 3
+print(g, "\n")
+
+# Pembagian bulat sama dengan
+h = 16
+h //= 5
+print(h, "\n")
